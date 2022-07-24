@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to my first github page
 
-You can use the [editor on GitHub](https://github.com/fuweiQiu/firsttest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+沒錯，這是我第一個測試的網頁
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我很久以前就想嫁一個網站，但我用什麼東西都必須是免費的，我找了很久的資料
 
-### Markdown
+### 找尋經歷
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我對什麼東西都還是很不懂，所以我先把整體概念都看過一遍，學習什麼是域名、DNS什麼的，但我到現在都還是很不懂，因為所有東西都是在網路上學的，有問題也只能google，而且如果在論壇上發問不知道什麼時候才能有答覆，再加上我一個新手對問題的描述，可能很多大神都看不懂，所以其實非常難受XD
 
-```markdown
-Syntax highlighted code block
+我一開始是先學一點點的html，我只學了一點點，就想架網站，當然是異想天開，想著就算網站不怎麼樣也好，怎麼都是一次經驗，一次架網站的經驗，不過事情沒有我想的那麼順利，一大堆專有名詞比我想的要難多了。
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fuweiQiu/firsttest/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+我最先嘗試從[freenom](https://my.freenom.com/clientarea.php)找免費域名，然後看著教程又連結到了[cloudflare](https://dash.cloudflare.com/)，想著到這裡，我應該可以在網路世界中有位子了吧，但下一個難題接踵而至，那終究只是一個地址，就跟我買了一塊地皮一樣，我有一塊地，可是我不會蓋房子啊，沒錯，我不會把自己寫的html檔上傳到我的網址中，這可能對很多大佬來說是一件很蠢的事，但我真的不知道怎麼做，於是我上網找了方法，我誤打誤撞找到了"FTP"這個關鍵字，下載了FileZilla，但是我又不知道怎麼弄了，打開FileZilla，看到主機、使用者名稱、密碼、連接埠，我整個慌了，我不知道什麼主機啊，更不用說帳號跟密碼了，是什麼的帳號跟密碼啊，完全沒有頭緒，隨便試了幾下，發現根本無法，放棄，我又上網找了其他方法，然後看到github page這款工具，雖然跟我一開始找的方法不一樣，但至少可以架個網站。
